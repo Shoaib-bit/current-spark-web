@@ -1,6 +1,5 @@
-
 import { Button } from '@/components/ui/button';
-import { Smartphone, Clock, DollarSign, MapPin } from 'lucide-react';
+import { Smartphone, Clock, DollarSign, MapPin, Zap } from 'lucide-react';
 
 const AppTeaser = () => {
   return (
